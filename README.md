@@ -23,13 +23,13 @@ MyTaskList App adalah aplikasi sederhana berbasis React Native yang digunakan un
 ## 📸 Screenshot Aplikasi
 
 ### Tampilan Awal
-![Home](screenshots/home-empty.jpeg)
+![Home](screenshot/home-empty.jpeg)
 
 ### Tambah Tugas
-![Add Task](screenshots/add-task.jpeg)
+![Add Task](screenshot/add-task.jpeg)
 
 ### Tugas Selesai
-![Complete](screenshots/task-complete.jpeg)
+![Complete](screenshot/task-complete.jpeg)
 
 ---
 
